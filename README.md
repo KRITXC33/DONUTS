@@ -1,2 +1,2 @@
-# Wekulify
+# Weku
 * DEDICATED TO PYTHON THINGS
