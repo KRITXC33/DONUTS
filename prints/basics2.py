@@ -1,5 +1,5 @@
-animal = tiger
-if animal = tiger
+animal = "tiger"
+if animal = "tiger"
 print("This is not a tiger")
 
 sleep_hours = 10
@@ -15,3 +15,9 @@ if money_amount > 100
 print("You ain't poor at all")
 elif money_amount < 100
 print("You are really poor, go get a job")
+
+discord_bot = "Dank Memer"
+if discord_bot = "Dank Memer"
+print("You are going to die")
+else:
+  print("You might die")
