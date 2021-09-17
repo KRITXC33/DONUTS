@@ -43,7 +43,7 @@ vbucks = 2,000
 if vbucks > 9,000
 print("You're parents ain't poor!")
 elif vbucks < 9000
-print("Are you just piss poor or what?")
+print("Are you just really poor or what?")
 
 books = 2
 games = 99
